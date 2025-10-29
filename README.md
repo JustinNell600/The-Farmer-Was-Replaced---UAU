@@ -15,6 +15,11 @@ Playing this game will improve problem-solving skills and coding abilities throu
 # UAU Explanation
 UAU or otherwise Known as Ulitmate Auto Upgrader, is a mixture of scripts with a 'brain' that automatically farms items needed for the chosen upgrade. UAU is also capable of farming dependancy items such as Pumpkins requiring carrots to plant and carrots requiring Wood and Hay to plant
 
-## Features
-This Script features organized rows and coloumns of the Crops Hay, Wheat and Carrots in specifically a 4x4 field
+## Disclaimer
+I wrote this script from about mid game of my first save to the Top Hat
+I also do not Own the following code
+V1.0.0 - Cactus.py
+V.1.5.2 - Cactus.py
+
+I am not a good coder whatsover, please do not think my code is perfect
 
